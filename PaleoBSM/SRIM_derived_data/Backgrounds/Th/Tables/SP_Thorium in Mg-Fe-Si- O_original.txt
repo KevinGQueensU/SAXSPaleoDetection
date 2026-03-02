@@ -1,0 +1,92 @@
+ ==================================================================
+              SRIM version ---> SRIM-2013.00
+              Calc. date   ---> março 19, 2025 
+ ==================================================================
+
+ Disk File Name = SRIM Outputs\Thorium in Mg-Fe-Si- O.txt
+
+ Ion = Thorium [90] , Mass = 234 amu
+
+ Target Density =  3,3700E+02 g/cm3 = 7,7683E+24 atoms/cm3
+ ======= Target  Composition ========
+    Atom   Atom   Atomic    Mass     
+    Name   Numb   Percent   Percent  
+    ----   ----   -------   -------  
+     Mg     12    025,33    023,57   
+     Fe     26    014,57    031,15   
+     Si     14    018,33    019,71   
+      O      8    041,77    025,58   
+ ====================================
+ Bragg Correction = 0,00%
+ Stopping Units =  keV / (ug/cm2) 
+ See bottom of Table for other Stopping units 
+
+        Ion        dE/dx      dE/dx     Projected  Longitudinal   Lateral
+       Energy      Elec.      Nuclear     Range     Straggling   Straggling
+  --------------  ---------- ---------- ----------  ----------  ----------
+999,999 eV    1,660E-01  1,792E+00         A           A           A   
+   1,10 keV   1,741E-01  1,890E+00         A           A           A   
+   1,20 keV   1,818E-01  1,983E+00         A           A           A   
+   1,30 keV   1,892E-01  2,072E+00         A           A           A   
+   1,40 keV   1,964E-01  2,158E+00         A           A           A   
+   1,50 keV   2,033E-01  2,240E+00         A           A           A   
+   1,60 keV   2,099E-01  2,320E+00         A           A           A   
+   1,70 keV   2,164E-01  2,396E+00         A           A           A   
+   1,80 keV   2,227E-01  2,471E+00         A           A           A   
+   2,00 keV   2,347E-01  2,612E+00         A           A           A   
+   2,25 keV   2,489E-01  2,779E+00         A           A           A   
+   2,50 keV   2,624E-01  2,934E+00         A           A           A   
+   2,75 keV   2,752E-01  3,081E+00       1 A           A           A   
+   3,00 keV   2,874E-01  3,221E+00       1 A           A           A   
+   3,25 keV   2,992E-01  3,353E+00       1 A           A           A   
+   3,50 keV   3,105E-01  3,479E+00       1 A           A           A   
+   3,75 keV   3,214E-01  3,600E+00       1 A           A           A   
+   4,00 keV   3,319E-01  3,716E+00       1 A           A           A   
+   4,50 keV   3,520E-01  3,935E+00       1 A           A           A   
+   5,00 keV   3,711E-01  4,138E+00       1 A           A           A   
+   5,50 keV   3,892E-01  4,329E+00       1 A           A           A   
+   6,00 keV   4,065E-01  4,508E+00       1 A           A           A   
+   6,50 keV   4,231E-01  4,678E+00       1 A           A           A   
+   7,00 keV   4,391E-01  4,839E+00       1 A           A           A   
+   8,00 keV   4,694E-01  5,138E+00       1 A           A           A   
+   9,00 keV   4,979E-01  5,412E+00       1 A           A           A   
+  10,00 keV   5,248E-01  5,664E+00       1 A           A           A   
+  11,00 keV   5,504E-01  5,899E+00       1 A           A           A   
+  12,00 keV   5,749E-01  6,118E+00       1 A           A           A   
+  13,00 keV   5,984E-01  6,323E+00       1 A           A           A   
+  14,00 keV   6,210E-01  6,517E+00       1 A           A           A   
+  15,00 keV   6,427E-01  6,700E+00       1 A           A           A   
+  16,00 keV   6,638E-01  6,873E+00       1 A           A           A   
+  17,00 keV   6,843E-01  7,038E+00       1 A           A           A   
+  18,00 keV   7,041E-01  7,196E+00       1 A           A           A   
+  20,00 keV   7,422E-01  7,490E+00       1 A           A           A   
+  22,50 keV   7,872E-01  7,824E+00       1 A           A           A   
+  25,00 keV   8,298E-01  8,128E+00       1 A           A           A   
+  27,50 keV   8,703E-01  8,406E+00       1 A           A           A   
+  30,00 keV   9,090E-01  8,663E+00       2 A           A           A   
+  32,50 keV   9,461E-01  8,900E+00       2 A           A           A   
+  35,00 keV   9,818E-01  9,121E+00       2 A           A           A   
+  37,50 keV   1,016E+00  9,328E+00       2 A           A           A   
+  40,00 keV   1,050E+00  9,522E+00       2 A           A           A   
+  45,00 keV   1,113E+00  9,876E+00       2 A           A           A   
+  50,00 keV   1,173E+00  1,019E+01       2 A           A           A   
+  55,00 keV   1,231E+00  1,048E+01       2 A           A           A   
+  60,00 keV   1,286E+00  1,074E+01       2 A         1 A           A   
+  65,00 keV   1,338E+00  1,098E+01       2 A         1 A           A   
+  70,00 keV   1,389E+00  1,119E+01       3 A         1 A           A   
+  80,00 keV   1,484E+00  1,158E+01       3 A         1 A           A   
+  90,00 keV   1,574E+00  1,192E+01       3 A         1 A         1 A   
+ 100,00 keV   1,660E+00  1,221E+01       3 A         1 A         1 A   
+-----------------------------------------------------------
+ Multiply Stopping by        for Stopping Units
+ -------------------        ------------------
+  3,3699E+03                 eV / Angstrom 
+  3,3699E+04                keV / micron   
+  3,3699E+04                MeV / mm       
+  1,0000E+00                keV / (ug/cm2) 
+  1,0000E+00                MeV / (mg/cm2) 
+  1,0000E+03                keV / (mg/cm2) 
+  4,3380E+01                 eV / (1E15 atoms/cm2)
+  2,5126E-02                L.S.S. reduced units
+ ==================================================================
+ (C) 1984,1989,1992,1998,2008 by J.P. Biersack and J.F. Ziegler

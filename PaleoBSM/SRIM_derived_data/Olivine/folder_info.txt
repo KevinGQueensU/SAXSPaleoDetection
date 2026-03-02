@@ -1,0 +1,5 @@
+This folder should contain definitions of class Minerals, and definitions of specific objects, say, Olivine.
+And they should be in seperate files. minerals.py should only contain definition of the general class. 
+Another file should be created to contain all objects defined under Minerals.
+
+__init__.py should import minerals.py so that main always have access to the class Minerals
